@@ -1,0 +1,9 @@
+
+Mean Absolute Differences in Inference Simulation:
+X-axis: 0.042799
+Y-axis: 0.041741
+Z-axis: 0.023490
+Overall: 0.036010
+
+Theta: 8.004934
+Alpha: 0.408422
